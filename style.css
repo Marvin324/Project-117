@@ -1,0 +1,68 @@
+body
+{
+    text-align: center;
+    background-image:url('https://fiverr-res.cloudinary.com/videos/t_main1,q_auto,f_auto/msrpmeyynrx5wem32fdf/doodle-to-feed-my-family.png');
+}
+
+.btn
+{
+    background-color: orange;
+    border-radius: 10px;
+    font-size: 28px;
+    color: red;
+    margin-bottom: 10px;
+    box-shadow: 20px 15px 18px grey;
+}
+
+#Rainbow
+{
+    background-image: linear-gradient(to right, red, orange, yellow, green, blue, purple);
+    border-radius: 15px;
+    padding-bottom: 10px;
+}
+
+.obj
+{
+    font-size: 24px;
+    padding: 10px;
+    color: white;
+    background-color: red;
+    border-radius: 10px;
+}
+
+.acc
+{
+    font-size: 24px;
+    padding: 10px;
+    color: white;
+    background-color: red;
+    border-radius: 10px;
+    margin-top: 20px; 
+}
+
+.object_accurancy
+{
+    background-image: linear-gradient(to left, red, orange, yellow, green, blue, purple);
+    border-radius: 15px;
+    padding-bottom: 10px; 
+    padding-top: 10px;
+    margin-bottom: 30px;
+}
+
+.camera_back    
+{
+    background-image: linear-gradient(to right, red, orange, yellow, green, blue, purple);
+    border-radius: 15px;
+    padding-bottom: 10px; 
+    padding-top: 10px;
+}
+
+#camera
+{
+    height: 250px;
+    width: 250px;
+    border-width: 10px;
+    border-style: dashed;
+    border-color: black;
+    margin-left: 630px;
+}
